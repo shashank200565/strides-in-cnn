@@ -1,0 +1,1 @@
+# strides-in-cnn
