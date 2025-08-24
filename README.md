@@ -1,4 +1,4 @@
-#CNN Strides Demonstration with MNIST
+# CNN Strides Demonstration with MNIST
 
 This project is a small demo to show how strides in Convolutional Neural Networks (CNNs) affect feature extraction and information preservation when processing images.
 
